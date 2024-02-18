@@ -4,7 +4,7 @@
 
 #### After login to google cloud console
 #### APIs & Services > Library
-#### Type "App Engine Admin API" in the search box
+#### Type "App Engine Admin API" in the search box and Enable it.
 ```bash 
 git clone https://github.com/GoogleCloudPlatform/java-docs-samples.git
 cd java-docs-samples/appengine-java8/helloworld
