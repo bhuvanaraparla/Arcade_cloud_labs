@@ -1,4 +1,4 @@
-# BigQuery: Qwik Start - Command Line
+``` # BigQuery: Qwik Start - Command Line ```
 ```bash
 bq show bigquery-public-data:samples.shakespeare
 bq help query
